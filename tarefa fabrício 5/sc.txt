@@ -1,0 +1,296 @@
+Município	População	Gentílico
+Abdon Batista	2.598	Abdonense
+Abelardo Luz	17.392	Abelardense
+Agrolândia	10.990	Agrolandense
+Agronômica	6.055	Agronomicense
+Água Doce	6.508	Agua-docense
+Águas de Chapecó	6.036	Aguas-chapecoense
+Águas Frias	2.839	Aguafriense
+Águas Mornas	6.743	Aguasmornense
+Alfredo Wagner	10.481	Alfredense
+Alto Bela Vista	1.856	Alto-belavistense
+Anchieta	5.943	Anchietaense
+Angelina	5.358	Angelinense
+Anita Garibaldi	8.285	Anitense
+Anitápolis	3.593	Anitapolitano
+Antônio Carlos	11.224	Antônio-carlense
+Apiúna	9.811	Apiunense
+Arabutã	4.378	Arabutanense
+Araquari	45.283	Araquariense
+Araranguá	71.922	Araranguaense
+Armazém	8.834	Armazenense
+Arroio Trinta	3.556	Arroiotrintense
+Arvoredo	2.510	Arvoredense
+Ascurra	8.319	Ascurriense
+Atalanta	3.227	Atalantense
+Aurora	6.780	Aurorano
+Balneário Arroio do Silva	15.820	Balneário-arroio-do-silvense
+Balneário Barra do Sul	14.912	Balneario-barra-do-sulense
+Balneário Camboriú	139.155	Camboriuense
+Balneário Gaivota	15.669	Balneario-gaivotense
+Balneário Piçarras	27.127	Balneario-picarrasense
+Balneário Rincão	15.981	Balneario-rincaoense
+Bandeirante	3.144	Bandeirantense
+Barra Bonita	1.668	Barra-bonitense
+Barra Velha	45.369	Barra-velhense
+Bela Vista do Toldo	5.872	Bela-vistense
+Belmonte	2.658	Belmontense
+Benedito Novo	10.520	Beneditense
+Biguaçu	76.773	Biguaçuense
+Blumenau	361.261	Blumenauense
+Bocaina do Sul	3.515	Bocainense
+Bom Jardim da Serra	4.026	Bom-jardinense
+Bom Jesus	2.777	Bom-jesuense
+Bom Jesus do Oeste	2.187	Bom-jesuense
+Bom Retiro	8.418	Bom-retirense
+Bombinhas	25.058	Bombinense
+Botuverá	5.363	Botuveraense
+Braço do Norte	33.773	Braçonortense
+Braço do Trombudo	4.026	Bracotrombudense
+Brunópolis	2.489	Brunopolense
+Brusque	141.385	Brusquense
+Caçador	73.720	Cacadorense
+Caibi	6.304	Caibense
+Calmon	3.443	Calmonense
+Camboriú	103.074	Camboriuense
+Campo Alegre	12.501	Campo-alegrense
+Campo Belo do Sul	7.257	Campo-belense
+Campo Erê	9.623	Campoerense
+Campos Novos	36.932	Campos-novense
+Canelinha	12.821	Canelinhense
+Canoinhas	55.016	Canoinhense
+Capão Alto	2.625	Capao-altense
+Capinzal	23.314	Capinzalense
+Capivari de Baixo	23.975	Capivariano
+Catanduvas	10.566	Catanduvense
+Caxambu do Sul	4.614	Caxambuense
+Celso Ramos	2.805	Celso-ramense
+Cerro Negro	3.317	Cerro-negrense
+Chapadão do Lageado	2.950	Chapadonense
+Chapecó	254.785	Chapecoense
+Cocal do Sul	17.240	Cocalense
+Concórdia	81.646	Concordiense
+Cordilheira Alta	4.781	Cordilheirense
+Coronel Freitas	10.388	Coronel-freitense
+Coronel Martins	2.065	Coronel-martinsense
+Correia Pinto	15.727	Correiano
+Corupá	15.267	Corupaense
+Criciúma	214.493	Criciumense
+Cunha Porã	10.953	Cunha-poraense
+Cunhataí	1.968	Cunhataiense
+Curitibanos	40.045	Curitibanense
+Descanso	8.530	Descansense
+Dionísio Cerqueira	15.008	Dionisiano
+Dona Emma	4.221	Emmaense
+Doutor Pedrinho	3.637	Pedrinhense
+Entre Rios	3.402	Entre-riense
+Ermo	2.269	Ermoense
+Erval Velho	4.885	Ervalense
+Faxinal dos Guedes	11.192	Faxinalense
+Flor do Sertão	1.783	Flor-do-sertãense
+Florianópolis	537.211	Florianopolitano
+Formosa do Sul	2.682	Formosense
+Forquilhinha	31.431	Forquilhinhense
+Fraiburgo	33.481	Fraiburguense
+Frei Rogério	2.411	Frei-rogeriense
+Galvão	3.210	Galvoense
+Garopaba	29.959	Garopabense
+Garuva	18.545	Garuvense
+Gaspar	72.570	Gasparense
+Governador Celso Ramos	16.915	Governador-celso-ramense
+Grão-Pará	6.277	FALSO
+Gravatal	12.435	Gravatalense
+Guabiruba	24.543	Guabirubense
+Guaraciaba	10.796	Guaraciabense
+Guaramirim	46.711	Guaramirenses
+Guarujá do Sul	4.829	Guarujaense
+Guatambu	8.425	Guatambuense
+Herval d'Oeste	21.724	Hervalense
+Ibiam	2.008	Ibiense
+Ibicaré	3.269	Ibicareense
+Ibirama	19.862	Ibiramense
+Içara	59.035	Içarense
+Ilhota	17.046	Ilhotense
+Imaruí	11.881	Imaruiense
+Imbituba	52.579	Imbitubense
+Imbuia	5.982	Imbuiano
+Indaial	71.549	Indaialense
+Iomerê	2.877	Iomereense
+Ipira	4.578	Ipirense
+Iporã do Oeste	9.335	Iporaense
+Ipuaçu	7.730	Ipuacuense
+Ipumirim	7.816	Ipumirinse
+Iraceminha	3.986	Iraceminhense
+Irani	10.195	Iraniano
+Irati	2.069	Iratiense
+Irineópolis	10.285	Irineopolitano
+Itá	7.067	Itaense
+Itaiópolis	22.051	Itaiopolitano
+Itajaí	264.054	Itajaiense
+Itapema	75.940	Itapemense
+Itapiranga	16.638	Itapiranguense
+Itapoá	30.750	Itapoaense
+Ituporanga	26.525	Ituporanguense
+Jaborá	4.310	Jaboraense
+Jacinto Machado	10.624	Jacintomachadense
+Jaguaruna	20.375	Jaguarunense
+Jaraguá do Sul	182.660	Jaraguaense
+Jardinópolis	1.776	Jardinopolitano
+Joaçaba	30.146	Joaçabense
+Joinville	616.317	Joinvilense
+José Boiteux	5.985	Boiteux-marinese
+Jupiá	2.555	Jupiense
+Lacerdópolis	2.248	Lacerdopolense
+Lages	164.981	Lajeano
+Laguna	42.785	Lagunense
+Lajeado Grande	1.702	Lajeadense
+Laurentino	7.932	Laurentinense
+Lauro Müller	14.381	FALSO
+Lebon Régis	11.472	Lebon-regense
+Leoberto Leal	3.330	Lealense
+Lindóia do Sul	4.549	Lindoiense
+Lontras	12.873	Lontranse
+Luiz Alves	11.684	Luizalvense
+Luzerna	5.794	Luzernense
+Macieira	1.778	Macieirense
+Mafra	55.286	Mafrense
+Major Gercino	3.214	Major-gercinense
+Major Vieira	7.425	Major-vieirense
+Maracajá	7.815	Maracajaense
+Maravilha	28.251	Maravilhense
+Marema	2.184	Maremense
+Massaranduba	17.162	Massarandubense
+Matos Costa	2.761	Matos-costense
+Meleiro	7.006	Meleirense
+Mirim Doce	2.511	Mirim-doense
+Modelo	4.080	Modelense
+Mondaí	10.066	Mondaiano
+Monte Carlo	9.117	Montecarlense
+Monte Castelo	7.736	Montecastelense
+Morro da Fumaça	18.537	Morrofumacense
+Morro Grande	3.010	Morro-grandense
+Navegantes	86.401	Navegantino
+Nova Erechim	5.155	Erechinense
+Nova Itaberaba	4.536	Nova-itaberabense
+Nova Trento	13.727	Trentino
+Nova Veneza	13.664	Nova-veneziano
+Novo Horizonte	2.643	Horizontino
+Orleans	23.661	Orleanense
+Otacílio Costa	17.312	Otaciliense
+Ouro	7.032	Ourense
+Ouro Verde	2.181	Ouro-verdense
+Paial	1.927	Paialense
+Painel	2.215	Painelense
+Palhoça	222.598	Palhocense
+Palma Sola	7.605	Palmense
+Palmeira	2.561	Palmeirense
+Palmitos	15.626	Palmitense
+Papanduva	19.150	Papanduvense
+Paraíso	4.267	Paraisense
+Passo de Torres	12.897	Passotorrense
+Passos Maia	4.034	Passos-maiense
+Paulo Lopes	9.063	Paulense
+Pedras Grandes	4.245	Pedras-grandense
+Penha	33.663	Penhense
+Peritiba	2.992	Peritibano
+Pescaria Brava	10.190	FALSO
+Petrolândia	6.716	Petrolandense
+Pinhalzinho	21.972	Pinhalense
+Pinheiro Preto	3.473	Pinheirense
+Piratuba	5.769	Piratubense
+Planalto Alegre	2.946	Planalto-alegrense
+Pomerode	34.289	Pomerodense
+Ponte Alta	4.437	Ponte-altense
+Ponte Alta do Norte	3.210	Ponte-altense-do-nortense
+Ponte Serrada	10.649	Ponte-serradense
+Porto Belo	27.688	Portobelense
+Porto União	32.970	Portuniense
+Pouso Redondo	17.123	Pouso-redondense
+Praia Grande	8.270	Praia-grandense
+Presidente Castello Branco	1.689	Presidente-castello-brancano
+Presidente Getúlio	20.010	Presidente-getuliense
+Presidente Nereu	2.301	Presidente-nereuense
+Princesa	2.964	Princesense
+Quilombo	11.022	Quilombense
+Rancho Queimado	3.279	Rancho-queimadense
+Rio das Antas	6.253	Rio-antense
+Rio do Campo	6.452	Rio-campense
+Rio do Oeste	7.747	Rio-oestense
+Rio do Sul	72.587	Rio-sulense
+Rio dos Cedros	10.865	Rio-cedrense
+Rio Fortuna	4.847	Rio-fortunense
+Rio Negrinho	39.261	Rio-negrinhense
+Rio Rufino	2.397	Rio-rufinense
+Riqueza	4.768	Riquezense
+Rodeio	12.757	Rodeense
+Romelândia	4.823	Romelandense
+Salete	7.489	Saletense
+Saltinho	3.632	Saltinhense
+Salto Veloso	4.390	Saltovelosense
+Sangão	12.882	Sangaonense
+Santa Cecília	15.546	Santaceciliano
+Santa Helena	2.425	Santahelenense
+Santa Rosa de Lima	2.088	Santa-rosense
+Santa Rosa do Sul	9.792	Santa-rosense
+Santa Terezinha	8.066	Santa-terezinhense
+Santa Terezinha do Progresso	2.576	Santa-terezinhense-do-progressense
+Santiago do Sul	1.651	Santagense
+Santo Amaro da Imperatriz	27.272	Santo-amarense
+São Bento do Sul	83.277	São-bentense
+São Bernardino	2.684	São-bernardinense
+São Bonifácio	2.946	São-bonifacense
+São Carlos	10.282	São-carlense
+São Cristóvão do Sul	6.084	FALSO
+São Domingos	9.226	São-dominguense
+São Francisco do Sul	52.674	São-franciscano
+São João Batista	32.687	São-joanense
+São João do Itaperiú	4.463	São-joanense
+São João do Oeste	6.295	São-joanense
+São João do Sul	8.668	São-joanense
+São Joaquim	25.939	São-joaquinense
+São José	270.299	São-joseense
+São José do Cedro	14.167	São-joseense
+São José do Cerrito	8.708	São-joseense
+São Lourenço do Oeste	24.791	São-lourencense
+São Ludgero	13.509	São-ludgerense
+São Martinho	3.405	São-martinhense
+São Miguel da Boa Vista	1.781	São-miguelense
+São Miguel do Oeste	44.330	São-miguelense
+São Pedro de Alcântara	5.776	São-pedrense
+Saudades	10.265	Saudadense
+Schroeder	20.061	Schroedense
+Seara	18.620	Searano
+Serra Alta	3.303	Serra-altense
+Siderópolis	13.714	Sideropolitano
+Sombrio	29.991	Sombriense
+Sul Brasil	2.832	Sulbrasilense
+Taió	18.310	Taiense
+Tangará	8.143	Tangaraense
+Tigrinhos	2.329	Tigrinhense
+Tijucas	51.592	Tijuquense
+Timbé do Sul	5.386	Timbeense
+Timbó	46.099	Timboense
+Timbó Grande	7.342	Timbo-grandense
+Três Barras	19.746	Tresbarrense
+Treviso	3.782	Trevisano
+Treze de Maio	7.362	Trezemaiense
+Treze Tílias	8.787	Trezilitrense
+Trombudo Central	7.274	Trombudense
+Tubarão	110.088	Tubaronense
+Tunápolis	4.916	Tunapolitano
+Turvo	13.043	Turvense
+União do Oeste	2.774	Uniao-oestense
+Urubici	10.834	Urubiciense
+Urupema	2.656	Urupemense
+Urussanga	20.919	Urussanguense
+Vargeão	3.634	Vargeonense
+Vargem	2.627	Vargense
+Vargem Bonita	4.576	Vargem-bonitense
+Vidal Ramos	6.189	Vidralense
+Videira	55.466	Videirense
+Vitor Meireles	5.370	Vitor-meirense
+Witmarsum	4.255	Witmarsumense
+Xanxerê	51.607	Xanxerense
+Xavantina	3.653	Xavantinense
+Xaxim	31.918	Xaxinense
+Zortéa	3.930	Zorteense
